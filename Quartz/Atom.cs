@@ -4,16 +4,27 @@ using System.Text;
 
 namespace Quartz
 {
-    class Atom
+    public class Atom
     {
         public string Name;
         public string Symbol;
         public int Atomic;
         public int Period;
         public int Group;  // Group goes from 1-18
-        public float ElectroNegativity;
+        public double? ElectroNegativity;
         private int? valenceElectrons;
         public Constants.Type AtomType;
+
+        public Atom(string name, string symbol, int atomic, int period, int group, double? electroNegativity, Constants.Type atomType)
+        {
+            Name = name;
+            Symbol = symbol;
+            Atomic = atomic;
+            Period = period;
+            Group = group;
+            ElectroNegativity = electroNegativity;
+            AtomType = atomType;
+        }
         
         public bool IsMainGroup => Group <= 2 && Group >= 13;
         public int? ValenceElectrons { 
