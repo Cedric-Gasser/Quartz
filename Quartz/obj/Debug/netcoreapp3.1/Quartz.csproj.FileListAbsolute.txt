@@ -1,0 +1,11 @@
+C:\Users\docos\source\repos\Quartz\Quartz\bin\Debug\netcoreapp3.1\Quartz.exe
+C:\Users\docos\source\repos\Quartz\Quartz\bin\Debug\netcoreapp3.1\Quartz.deps.json
+C:\Users\docos\source\repos\Quartz\Quartz\bin\Debug\netcoreapp3.1\Quartz.runtimeconfig.json
+C:\Users\docos\source\repos\Quartz\Quartz\bin\Debug\netcoreapp3.1\Quartz.runtimeconfig.dev.json
+C:\Users\docos\source\repos\Quartz\Quartz\bin\Debug\netcoreapp3.1\Quartz.dll
+C:\Users\docos\source\repos\Quartz\Quartz\bin\Debug\netcoreapp3.1\Quartz.pdb
+C:\Users\docos\source\repos\Quartz\Quartz\obj\Debug\netcoreapp3.1\Quartz.csprojAssemblyReference.cache
+C:\Users\docos\source\repos\Quartz\Quartz\obj\Debug\netcoreapp3.1\Quartz.AssemblyInfoInputs.cache
+C:\Users\docos\source\repos\Quartz\Quartz\obj\Debug\netcoreapp3.1\Quartz.AssemblyInfo.cs
+C:\Users\docos\source\repos\Quartz\Quartz\obj\Debug\netcoreapp3.1\Quartz.dll
+C:\Users\docos\source\repos\Quartz\Quartz\obj\Debug\netcoreapp3.1\Quartz.pdb
