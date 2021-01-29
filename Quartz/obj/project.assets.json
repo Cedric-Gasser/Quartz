@@ -8,26 +8,24 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\docos\\.nuget\\packages\\": {}
+    "/home/cedric/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\docos\\source\\repos\\Quartz\\Quartz\\Quartz.csproj",
+      "projectUniqueName": "/home/cedric/Projects/Quartz/Quartz/Quartz.csproj",
       "projectName": "Quartz",
-      "projectPath": "C:\\Users\\docos\\source\\repos\\Quartz\\Quartz\\Quartz.csproj",
-      "packagesPath": "C:\\Users\\docos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\docos\\source\\repos\\Quartz\\Quartz\\obj\\",
+      "projectPath": "/home/cedric/Projects/Quartz/Quartz/Quartz.csproj",
+      "packagesPath": "/home/cedric/.nuget/packages/",
+      "outputPath": "/home/cedric/Projects/Quartz/Quartz/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\docos\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/cedric/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -53,12 +51,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.8, 3.1.8]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.111\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.108/RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -13,9 +13,8 @@ namespace Quartz
         public int Group;  // Group goes from 1-18
         public float ElectroNegativity;
         private int? valenceElectrons;
-
-
-
+        public Constants.Type AtomType;
+        
         public bool IsMainGroup => Group <= 2 && Group >= 13;
         public int? ValenceElectrons { 
             get{

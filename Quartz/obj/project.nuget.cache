@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VSQUb5eOjFPY7IifkGMG4WpOZWUBAafD2TDw/LfJslJG8cVsy0lzaz/3xNowESGQi9Vzvj7R9BBwhQI5aI2MMg==",
+  "success": true,
+  "projectFilePath": "/home/cedric/Projects/Quartz/Quartz/Quartz.csproj",
+  "expectedPackageFiles": [
+    "/home/cedric/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}
